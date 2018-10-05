@@ -17,4 +17,4 @@ If not using Docker, it can be run in the normal way of running Jupyter notebook
 
 ## Editing
 
-The docker container should print out a web address you can visit in a browser, then go to the "work" subdirectory in the jupyter interface to the the workbook.
+The docker container should print out a web address you can visit in a browser, then go to the "work" subdirectory in the jupyter interface to view and edit the workbook.
